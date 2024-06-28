@@ -1,0 +1,12 @@
+prefix=c:/Users/jaiad/OneDrive/Desktop/Generative AI/Project R/venv/Library
+libdir=c:/Users/jaiad/OneDrive/Desktop/Generative AI/Project R/venv/Library/lib
+includedir=c:/Users/jaiad/OneDrive/Desktop/Generative AI/Project R/venv/Library/include
+
+Name: poppler-cpp
+Description: cpp backend for Poppler PDF rendering library
+Version: 24.04.0
+Requires: 
+Requires.private: poppler = 24.04.0
+
+Libs: -L${libdir} -lpoppler-cpp
+Cflags: -I${includedir}/poppler/cpp

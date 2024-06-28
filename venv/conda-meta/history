@@ -1,0 +1,68 @@
+==> 2024-06-28 14:13:45 <==
+# cmd: C:\Users\jaiad\anaconda3\anconda\Scripts\conda-script.py create -p venv python==3.10
+# conda version: 24.5.0
++defaults/noarch::tzdata-2024a-h04d1e81_0
++defaults/win-64::bzip2-1.0.8-h2bbff1b_6
++defaults/win-64::ca-certificates-2024.3.11-haa95532_0
++defaults/win-64::libffi-3.4.4-hd77b12b_1
++defaults/win-64::openssl-1.1.1w-h2bbff1b_0
++defaults/win-64::pip-24.0-py310haa95532_0
++defaults/win-64::python-3.10.0-h96c0403_3
++defaults/win-64::setuptools-69.5.1-py310haa95532_0
++defaults/win-64::sqlite-3.45.3-h2bbff1b_0
++defaults/win-64::tk-8.6.14-h0416ee5_0
++defaults/win-64::vc-14.2-h2eaa2aa_1
++defaults/win-64::vs2015_runtime-14.29.30133-h43f2093_3
++defaults/win-64::wheel-0.43.0-py310haa95532_0
++defaults/win-64::xz-5.4.6-h8cc25b3_1
++defaults/win-64::zlib-1.2.13-h8cc25b3_1
+# update specs: ['python==3.10']
+==> 2024-06-28 14:35:13 <==
+# cmd: C:\Users\jaiad\anaconda3\anconda\Scripts\conda-script.py install -c conda-forge poppler
+# conda version: 24.5.0
+-defaults/win-64::ca-certificates-2024.3.11-haa95532_0
+-defaults/win-64::openssl-1.1.1w-h2bbff1b_0
+-defaults/win-64::python-3.10.0-h96c0403_3
+-defaults/win-64::vs2015_runtime-14.29.30133-h43f2093_3
+-defaults/win-64::zlib-1.2.13-h8cc25b3_1
++conda-forge/noarch::font-ttf-dejavu-sans-mono-2.37-hab24e00_0
++conda-forge/noarch::font-ttf-inconsolata-3.000-h77eed37_0
++conda-forge/noarch::font-ttf-source-code-pro-2.038-h77eed37_0
++conda-forge/noarch::font-ttf-ubuntu-0.83-h77eed37_2
++conda-forge/noarch::fonts-conda-ecosystem-1-0
++conda-forge/noarch::fonts-conda-forge-1-0
++conda-forge/noarch::poppler-data-0.4.12-hd8ed1ab_0
++conda-forge/win-64::ca-certificates-2024.6.2-h56e8100_0
++conda-forge/win-64::cairo-1.18.0-h1fef639_0
++conda-forge/win-64::expat-2.6.2-h63175ca_0
++conda-forge/win-64::fontconfig-2.14.2-hbde0cde_0
++conda-forge/win-64::freetype-2.12.1-hdaf720e_2
++conda-forge/win-64::icu-73.2-h63175ca_0
++conda-forge/win-64::krb5-1.21.3-hdf4eb48_0
++conda-forge/win-64::lcms2-2.16-h67d730c_0
++conda-forge/win-64::lerc-4.0.0-h63175ca_0
++conda-forge/win-64::libcurl-8.8.0-hd5e4a3a_0
++conda-forge/win-64::libdeflate-1.20-hcfcfb64_0
++conda-forge/win-64::libexpat-2.6.2-h63175ca_0
++conda-forge/win-64::libglib-2.80.2-h0df6a38_0
++conda-forge/win-64::libiconv-1.17-hcfcfb64_2
++conda-forge/win-64::libintl-0.22.5-h5728263_2
++conda-forge/win-64::libjpeg-turbo-3.0.0-hcfcfb64_1
++conda-forge/win-64::libpng-1.6.43-h19919ed_0
++conda-forge/win-64::libsqlite-3.46.0-h2466b09_0
++conda-forge/win-64::libssh2-1.11.0-h7dfc565_0
++conda-forge/win-64::libtiff-4.6.0-hddb2be6_3
++conda-forge/win-64::libzlib-1.2.13-h2466b09_6
++conda-forge/win-64::openjpeg-2.5.2-h3d672ee_0
++conda-forge/win-64::openssl-3.3.1-h2466b09_1
++conda-forge/win-64::pcre2-10.43-h17e33f8_0
++conda-forge/win-64::pixman-0.43.4-h63175ca_0
++conda-forge/win-64::poppler-24.04.0-h747fd5a_0
++conda-forge/win-64::python-3.10.14-h4de0772_0_cpython
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_0
++conda-forge/win-64::vc14_runtime-14.40.33810-ha82c5b3_20
++conda-forge/win-64::vs2015_runtime-14.40.33810-h3bf8584_20
++conda-forge/win-64::zlib-1.2.13-h2466b09_6
++conda-forge/win-64::zstd-1.5.6-h0ea2cb4_0
+# update specs: ['poppler']
+# neutered specs: ['python==3.10.14']

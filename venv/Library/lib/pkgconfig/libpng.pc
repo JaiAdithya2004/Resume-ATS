@@ -1,0 +1,12 @@
+prefix=c:/Users/jaiad/OneDrive/Desktop/Generative AI/Project R/venv/Library
+exec_prefix=c:/Users/jaiad/OneDrive/Desktop/Generative AI/Project R/venv/Library
+libdir=c:/Users/jaiad/OneDrive/Desktop/Generative AI/Project R/venv/Library/lib
+includedir=c:/Users/jaiad/OneDrive/Desktop/Generative AI/Project R/venv/Library/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.43
+Requires.private: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: -lz
+Cflags: -I${includedir}
